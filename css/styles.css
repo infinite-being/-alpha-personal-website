@@ -73,6 +73,7 @@ a {
 }
 .bottom-cloud {
   position: absolute;
+  left: 200px;
 
 }
 .top-cloud {
